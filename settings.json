@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "hypermsp-Yv77.aternos.me",
-    "port": 40030,
+    "ip": "in4-1.shulker.in",
+    "port": 5619,
     "version": "1.20.1",
     "try-creative": false
   },
